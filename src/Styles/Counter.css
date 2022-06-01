@@ -1,0 +1,24 @@
+button{
+    padding: 1rem 3rem;
+    border-radius: 10px;
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inc{
+    background: green;
+}
+.dec{
+    background: red;
+}
+
+.reset{
+    background: blue;
+}
+
+.c{
+    display: flex;
+    justify-content: center;
+}
